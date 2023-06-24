@@ -1,4 +1,4 @@
-# green-pastures
+# Green Pastures
 A firefox theme based on the green color.
 
 Created by using the extension Firefox Color, provided by Mozilla.
