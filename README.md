@@ -1,7 +1,7 @@
 # Green Pastures
 A firefox theme based on the green color.
 
-Created with [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), provided by Mozila Firefox.
+Created with [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), which is provided by Mozila Firefox.
 
 
 ## Screenshot
