@@ -1,8 +1,9 @@
 # Green Pastures
 A firefox theme based on the green color.
 
-Created with [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), which is provided by Mozila Firefox.
+He makes me lie down in green pastures, he leads me beside quiet waters. Psalms 23:2
 
+Created with [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), which is provided by Mozila Firefox.
 
 ## Screenshot
 
