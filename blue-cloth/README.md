@@ -7,7 +7,7 @@ Created with [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/fire
 
 ## Screenshot
 
-<img src="https://github.com/loveisfoss/blue-cloth/blob/main/blue-cloth-screenshot.png" />
+<img src="https://github.com/loveisfoss/firefox-themes/blob/main/blue-cloth/blue-cloth-screenshot.png" />
 
 ## License
 [Creative Commons Attribution-NonCommercial-Share Alike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
